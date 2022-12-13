@@ -1,6 +1,6 @@
 ### Welcome!
 
-## Current and Recently Completed Projects:
+# I'm a former opera singer and audio engineer, current composer and coding-nerd looking for a day-job as a data analyst or engineer.
 
 - 🔭 I’m currently working on a chord prediction API
 

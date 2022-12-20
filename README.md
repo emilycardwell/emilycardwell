@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a chord prediction API
 
-- 🌱 I just finished Le Wagon's Data Science bootcamp!
+- 🌱 I just finished Le Wagon's Data Science bootcamp! [Here's my final project!](https://emilycardwell-final-proj-website-app-72u6by.streamlit.app/)
 
 - 💬 Ask me about making music with code! [Sample of my computer music](https://soundcloud.com/emilycardwellmusic/en-route)
 

@@ -6,7 +6,7 @@
 
 - 🌱 I just finished Le Wagon's Data Science bootcamp! [Here's my final project!](https://github.com/emilycardwell/final-project-cleaning)
 
-- 💬 Ask me about making music with code! [Sample of my computer music](https://soundcloud.com/emilycardwellmusic/en-route)
+- 💬 Ask me about making music with code! [Sample of my computer music](https://on.soundcloud.com/Cz8om)
 
 - 📫 How to reach me: emily@emilycardwell.com
 

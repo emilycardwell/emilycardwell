@@ -1,6 +1,6 @@
 ## Welcome!
 
-### I'm a former opera singer and audio engineer, current coding-nerd and composer looking for a day-job as a data analyst or engineer.
+### I'm a former opera singer and audio engineer, current coding-nerd and composer freelancing in data engineering/analysis.
 
 - 🎤 I just finished working on a [chord prediction API](https://emilycardwell-final-proj-website-app-72u6by.streamlit.app/)
 

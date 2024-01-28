@@ -2,7 +2,7 @@
 
 ### I'm a former opera singer and audio engineer, current coding-nerd and composer freelancing in data engineering/analysis.
 
-- 🎤 I just finished working on a [chord prediction API](https://emilycardwell-final-proj-website-app-72u6by.streamlit.app/)
+- 🎤 I just finished working on a [chord prediction API](https://chord-predict.streamlit.app/)
 
 - 🌱 I just finished Le Wagon's Data Science bootcamp! [Here's my final project!](https://github.com/emilycardwell/final-project-cleaning)
 

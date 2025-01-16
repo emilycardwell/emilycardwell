@@ -4,7 +4,7 @@
 
 - 🎤 I just updated my [chord prediction API](https://chord-predict.streamlit.app/)
 
-- 🌱 I completed Le Wagon's Data Science bootcamp in Jan 2023! [Here's my final project!](https://github.com/emilycardwell/final-project-cleaning)
+- 🌱 I completed Le Wagon's Data Science bootcamp in Jan 2023! [Here's my final project!](https://chord-predict.streamlit.app/)
 
 - 💬 Ask me about making music with code! [Sample of my computer music](https://on.soundcloud.com/Cz8om)
 

@@ -2,9 +2,9 @@
 
 ### I'm a data scientist, engineer, and analyst with a passion for nature and music
 
-- 🎤 I just finished working on a [chord prediction API](https://chord-predict.streamlit.app/)
+- 🎤 I just updated my [chord prediction API](https://chord-predict.streamlit.app/)
 
-- 🌱 I completed Le Wagon's Data Science bootcamp in 2022! [Here's my final project!](https://github.com/emilycardwell/final-project-cleaning)
+- 🌱 I completed Le Wagon's Data Science bootcamp in Jan 2023! [Here's my final project!](https://github.com/emilycardwell/final-project-cleaning)
 
 - 💬 Ask me about making music with code! [Sample of my computer music](https://on.soundcloud.com/Cz8om)
 
